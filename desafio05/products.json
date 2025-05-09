@@ -1,0 +1,144 @@
+[
+    {
+        "Name": "Tenis Superstar 82",
+        "Producer": "Adidas",
+        "Colors": [
+            "Silver Metallic"
+        ],
+        "BasePrice": 600
+    },
+    {
+        "Name": "Tenis Tokyo",
+        "Producer": "Adidas",
+        "Colors": [
+            "Silver Metallic",
+            "Lucid Pink"
+        ],
+        "BasePrice": 800
+    },
+    {
+        "Name": "Tenis SL 72 Space Cowboy",
+        "Producer": "Adidas",
+        "Colors": [
+            "Shadow Red"
+        ],
+        "BasePrice": 700
+    },
+    {
+        "Name": "Tenis Samba Decon",
+        "Producer": "Adidas",
+        "Colors": [
+            "Cloud White",
+            "Core Black"
+        ],
+        "BasePrice": 900
+    },
+    {
+        "Name": "Tenis Nike Air Max Fire Masculino",
+        "Producer": "Nike",
+        "Colors": [
+            "Branco",
+            "Preto"
+        ],
+        "BasePrice": 850
+    },
+    {
+        "Name": "Tenis Nike P-6000 Masculino",
+        "Producer": "Nike",
+        "Colors": [
+            "Branco",
+            "Marron",
+            "Vermelho"
+        ],
+        "BasePrice": 760
+    },
+    {
+        "Name": "Tenis Nike Air Force 1 07 Feminino",
+        "Producer": "Nike",
+        "Colors": [
+            "Branco",
+            "Preto"
+        ],
+        "BasePrice": 760
+    },
+    {
+        "Name": "Tenis Nike Star Runner 3 Infantil",
+        "Producer": "Nike",
+        "Colors": [
+            "Azul Escruo",
+            "Claro",
+            "Preto",
+            "Rosa"
+        ],
+        "BasePrice": 330
+    },
+    {
+        "Name": "Tour One M2",
+        "Producer": "JBL",
+        "Colors": [
+            "Preto"
+        ],
+        "BasePrice": 1400
+    },
+    {
+        "Name": "Tune 520BT",
+        "Producer": "JBL",
+        "Colors": [
+            "Preto",
+            "Branco",
+            "Azul"
+        ],
+        "BasePrice": 320
+    },
+    {
+        "Name": "Tune Flex 2",
+        "Producer": "JBL",
+        "Colors": [
+            "Preto",
+            "Branco",
+            "Azul"
+        ],
+        "BasePrice": 600
+    },
+    {
+        "Name": "Endurance Peak 3",
+        "Producer": "JBL",
+        "Colors": [
+            "Preto",
+            "Branco",
+            "Azul",
+            "Laranja"
+        ],
+        "BasePrice": 900
+    },
+    {
+        "Name": "Caneta Personalizada Metal Capricci Tinteiro",
+        "Producer": "Crown",
+        "Colors": [
+            "Preto",
+            "Dourado",
+            "Azul",
+            "Marrom"
+        ],
+        "BasePrice": 213
+    },
+    {
+        "Name": "Caneta Personalizada Metal Regent Tinteiro",
+        "Producer": "Crown",
+        "Colors": [
+            "Preto",
+            "Prata"
+        ],
+        "BasePrice": 251
+    },
+    {
+        "Name": "Caneta Personalizada Montreal Tinteiro",
+        "Producer": "Crown",
+        "Colors": [
+            "Preto",
+            "Branco",
+            "Prata"
+        ],
+        "BasePrice": 181
+    }
+]
