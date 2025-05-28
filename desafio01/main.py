@@ -8,7 +8,9 @@ import os.path
 # href="/wiki/pagina/" do texto e retornar uma lista com apenas
 # os nomes das páginas como [ "Bosch_(company)", "Spark_plug" ].
 def extract_wikipedia_links(page_content):
-    return []
+    links = []
+        
+    return links
 
 def get_file_path(url):
     file = url[1:] + ".html"
@@ -38,7 +40,9 @@ def create_wikipedia_graph(start_url):
     while pages_to_visit:
         current_url = pages_to_visit.pop(0)
         
-        # Falta algo aqui
+        # Falta algo aqui...
+
+        print("visiting", current_url)
         
         page_content = get_wikipedia_page(current_url)
         if page_content is None:
